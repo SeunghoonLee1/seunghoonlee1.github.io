@@ -17,8 +17,10 @@ email : seunghoonlee95@gmail.com
 Developed a Blackjack game program with three other group members. As a leader of the project, I distributed the works according to each person's strengths. Then gathered all parts and merged them together to make the program run. 
 
 
+##Answers to the following questions:
 
 * What do you value in a career? What are the most important parts (rank if you feel its appropriate)?
+  - The most important factor that I consider in a career is whether I enjoy doing it. Even if such tasks might take a lot of time and effort, as long as I find it enjoyable, I will be satisfied with the job.
 
 * What is the ideal industry you would like to work in? Be as specific as you can (i.e. mobile apps, video game design, etc.)
 
