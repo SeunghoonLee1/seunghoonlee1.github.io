@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Seunghoon Lee (Danny)
 
-You can use the [editor on GitHub](https://github.com/SeunghoonLee1/seunghoonlee1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Contact info
+email : seunghoonlee95@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+**Miracosta College** Computer Science - May 2018. 
 
-### Markdown
+## Skills
+* Primary Language : Java
+* Operating Systems : Windows
+* Foreign Languages : Fluent native Korean speaker/writer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
