@@ -34,10 +34,11 @@ Developed a Blackjack game program with three other group members. As a leader o
   - First of all, I would truly enjoy myself working at a game company since I love playing online games. Also by debugging any possible issues, I would also provide enjoyment to other users who play our games.
 
 * How does that industry/job title align with what your personal interests are, if any?
-
+  - The online game industry would fit me since I love playing games and it will be a good experience to enhance my coding and cooperation skills. 
 * How does the job posting you found embody that?
 
 * What is the ideal career path to get to that job posting, from where you are now? (i.e. what degree(s) do you need? internships? jobs? etc.)
+  - I should first get my bachelor's degree after I transfer. During my senior year, I would go out for internships in game companies to experience how computer science are used in real game industries. Then I would apply for a job as a game developer. 
 
 
 
