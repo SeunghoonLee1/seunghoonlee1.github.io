@@ -1,4 +1,3 @@
-![profileImage] (https://github.com/SeunghoonLee1/seunghoonlee1.github.io.git/profile.png)
 
 # Seunghoon Lee (Danny)
 
