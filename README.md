@@ -5,6 +5,7 @@
 email : seunghoonlee95@gmail.com
 
 ## Education
+**California State University Long Beach** Computer Science Fall 2015- Spring 2016
 **Miracosta College** Computer Science - May 2018. 
 
 ## Skills
